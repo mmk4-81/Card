@@ -145,3 +145,7 @@ body {
     font-weight: bold;
     letter-spacing: 2px;
 }
+
+.action.message{
+    background-color: #6741ff;
+}
