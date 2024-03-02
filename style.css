@@ -112,3 +112,20 @@ body {
     transform: scale(1.1);
 }
 
+
+/*social colors*/
+.social-container button.youtube{
+    background: linear-gradient(45deg,#ff000088,#ff0000);
+}
+
+.social-container button.linkedin{
+    background: linear-gradient(45deg,#0e76a888,#0e76a8);
+}
+
+.social-container button.instagram{
+    background: linear-gradient(45deg,#e6683ccc 25%,#dc2743 50%,#bc1888 100%);
+}
+
+.social-container button.github{
+    background: linear-gradient(45deg,#33333388,#333333);
+}
