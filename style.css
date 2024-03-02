@@ -17,7 +17,6 @@ body {
 
 .profile-container {
     position: relative;
-
     background-color: #fff;
     width: 350px;
     padding: 100px 50px 40px;
@@ -27,4 +26,17 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.img-container{
+    width: 130px;
+    height: 130px;
+    overflow: hidden;
+    border: 5px solid #b92a76;
+    border-radius: 50%;
+    box-shadow: 0 8px 55px #b92a76a4;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
