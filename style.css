@@ -144,8 +144,14 @@ body {
     font-size: 1em;
     font-weight: bold;
     letter-spacing: 2px;
+    transition: transform 0.3s,opacity 0.3s;
 }
 
 .action.message{
     background-color: #6741ff;
+}
+
+.action:hover{
+    transform: scale(1.05);
+    opacity: 0.85;
 }
