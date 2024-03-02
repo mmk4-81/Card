@@ -46,3 +46,20 @@ body {
     max-width: 100%;
     transform: scale(1,1);
 }
+
+.info{
+    margin-bottom: 12px;
+}
+
+.info i{
+    margin-right: 8px;
+    font-size: 1.1em;
+}
+
+.place{
+    margin-bottom: 40px;
+}
+
+.full-name{
+    font-size: 1.3em;
+}
